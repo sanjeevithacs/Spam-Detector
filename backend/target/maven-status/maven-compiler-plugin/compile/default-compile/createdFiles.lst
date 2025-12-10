@@ -1,0 +1,5 @@
+com\spamdetect\repository\CommentRepository.class
+com\spamdetect\SpamDetectApplication.class
+com\spamdetect\controller\SpamController.class
+com\spamdetect\model\Comment.class
+com\spamdetect\service\SpamService.class
